@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: "/to-do-list/",
   build: {
-    outDir: "docs",
+    outDir: "dist",
   },
 });
