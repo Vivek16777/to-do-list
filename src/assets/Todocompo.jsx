@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import '../App.css';
 
 function Todocompo() {
-  const [task, setTask] = useState([""]);
+  const [task, setTask] = useState([]);
   const [newtask, setNewTask] = useState("");
 
   function addNewTask(event) {
