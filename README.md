@@ -26,7 +26,7 @@ A simple and responsive To-Do List application built with **React**. Easily mana
 - **Frontend**:
 
   - React
-  - Vite or Create React App (choose one based on your setup)
+  - Vite 
   - JavaScript (ES6+)
   - CSS
 
