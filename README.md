@@ -33,12 +33,12 @@ A simple and responsive To-Do List application built with **React**. Easily mana
 - **Dev Tools**:
   - VS Code
   - Git & GitHub
-  - Render / Netlify / Vercel (for deployment)
+  - Render
 
 ---
 
 ## 📂 Folder Structure
-
+```bash
 to-do-list/
 ├── public/
 │ └── index.html
@@ -52,7 +52,7 @@ to-do-list/
 ├── .gitignore
 ├── package.json
 └── README.md
-
+```
 ---
 
 ## ⚙️ Installation & Setup
