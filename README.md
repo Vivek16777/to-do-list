@@ -1,12 +1,72 @@
-# React + Vite
+# 📝 React To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive To-Do List application built with **React**. Easily manage your daily tasks—add, remove, and clear tasks with a clean UI and smooth functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Click here to try the live app](https://to-do-list-zdlw.onrender.com)  
+_(Replace the link above with your actual live demo if it's different)_
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- ✅ Add new tasks
+- ❌ Delete individual tasks
+- 🧹 Clear all tasks
+- 🖥️ Responsive design (mobile-friendly)
+- ⚛️ React hooks (`useState`)
+- 🧠 Clean and minimal interface
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**:
+
+  - React
+  - Vite or Create React App (choose one based on your setup)
+  - JavaScript (ES6+)
+  - CSS
+
+- **Dev Tools**:
+  - VS Code
+  - Git & GitHub
+  - Render / Netlify / Vercel (for deployment)
+
+---
+
+## 📂 Folder Structure
+
+to-do-list/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ │ └── Todocompo.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ ├── App.css
+│ └── index.css
+├── .gitignore
+├── package.json
+└── README.md
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/yourusername/to-do-list.git
+   cd to-do-list
+
+    npm install
+    npm run dev
+    npm start
+   ```
