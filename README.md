@@ -6,8 +6,7 @@ A simple and responsive To-Do List application built with **React**. Easily mana
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the live app](https://to-do-list-zdlw.onrender.com)  
-_(Replace the link above with your actual live demo if it's different)_
+👉 [Click here to try the live app](https://to-do-list-hv66.onrender.com/)  
 
 ---
 
@@ -27,19 +26,19 @@ _(Replace the link above with your actual live demo if it's different)_
 - **Frontend**:
 
   - React
-  - Vite or Create React App (choose one based on your setup)
+  - Vite 
   - JavaScript (ES6+)
   - CSS
 
 - **Dev Tools**:
   - VS Code
   - Git & GitHub
-  - Render / Netlify / Vercel (for deployment)
+  - Render
 
 ---
 
 ## 📂 Folder Structure
-
+```bash
 to-do-list/
 ├── public/
 │ └── index.html
@@ -53,7 +52,7 @@ to-do-list/
 ├── .gitignore
 ├── package.json
 └── README.md
-
+```
 ---
 
 ## ⚙️ Installation & Setup
